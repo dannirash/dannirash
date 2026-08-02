@@ -1,32 +1,13 @@
 # Dany Rashwan
 **Autonomous Systems Engineer @ Rovex Technologies**
 
-Architecting end-to-end autonomous infrastructure for mobile robotics. Specializing in multi-sensor perception pipelines (ZED stereovision, 3D/2D LiDAR), safety-critical system design, and high-fidelity validation using NVIDIA Isaac Sim.
+I architect and integrate end-to-end autonomous infrastructure for mobile robotics. My work focuses on safety-critical system design, advanced perception pipelines (ZED stereovision, 3D/2D LiDAR), and robust simulation methodologies using NVIDIA Isaac Sim for pre-deployment algorithm validation.
 
-### ⚙️ Core Stack & Tools
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![ROS 2](https://img.shields.io/badge/ROS_2-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+### Core Focus Areas
+* **Infrastructure & State:** ROS 2 architecture, C++ node development, IMU/Odometry fusion
+* **Perception:** Multi-sensor fusion pipelines, LiDAR processing, Computer Vision
+* **Simulation:** High-fidelity sensor simulation, Hardware-in-the-Loop (HIL) testing
+* **Technologies:** C++17/20, Python 3, ROS 2, PCL, OpenCV, Docker
 
-### 📊 GitHub Activity
-<p align="left">
-  <!-- Sleek dark mode stats to match your brand -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dannirash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=08090d&title_color=00e5ff&icon_color=00e5ff" height="150" alt="Dany's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannirash&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=08090d&title_color=00e5ff" height="150" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <!-- Minimalist activity graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dannirash&theme=tokyo-night&bg_color=08090d&color=00e5ff&line=00e5ff&point=FFFFFF&hide_border=true" alt="Dany's Activity Graph" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://danyrashwan.com"><b>Portfolio</b></a> •
-  <a href="https://linkedin.com/in/dany-rashwan"><b>LinkedIn</b></a> •
-  <a href="mailto:dany@danyrashwan.com"><b>Email</b></a>
-</p>
+### Links
+* **LinkedIn:** [linkedin.com/in/dany-rashwan](https://linkedin.com/in/dany-rashwan)
